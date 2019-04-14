@@ -39,6 +39,7 @@
     "ionic-plugin-keyboard": "^2.2.1",
     "ionicons": "3.0.0",
     "promise-polyfill": "^8.1.0",
+    "run": "1.4.0",
     "rxjs": "^6.4.0",
     "rxjs-compat": "^6.4.0",
     "sw-toolbox": "3.6.0",
