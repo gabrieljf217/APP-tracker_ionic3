@@ -10,7 +10,7 @@
 
 # Mobile App [trackerApp]
 
-![alt text](https://github.com/gabrieljf217/APP-tracker_ionic3/blob/master/trackerApp/src/assets/imgs/Tackerapp.png)
+![alt text](https://github.com/gabrieljf217/APP-tracker_ionic3/blob/master/trackerApp/src/assets/imgs/APPTracker.png)
 
 # Web Application [trackerDesk]
 
@@ -18,7 +18,7 @@ View of Google cloud firestore
 ![alt text](https://github.com/gabrieljf217/APP-tracker_ionic3/blob/master/trackerDesk/src/assets/trackerDeskFB.png)
 
 View web application
-![alt text](https://github.com/gabrieljf217/APP-tracker_ionic3/blob/master/trackerDesk/src/assets/TrackerDesk.png)
+![alt text](https://github.com/gabrieljf217/APP-tracker_ionic3/blob/master/trackerDesk/src/assets/DESKTracker.png)
 
 [trackerApp]: <https://github.com/gabrieljf217/APP-tracker_ionic3/tree/master/trackerApp>
 [trackerDesk]: <https://github.com/gabrieljf217/APP-tracker_ionic3/tree/master/trackerDesk>
